@@ -1,6 +1,12 @@
 # Fishease
 Fishease is a fish disease prediction service for aquaculturers and fish farmers.
 
+## Related Repositories
+- [backend]   https://github.com/p1xlb/fishease-backend
+- [frontend]  https://github.com/Bintangawan/fishease-frontend
+- [model]     https://github.com/ismailand/inimodelFishease
+- [model api] https://github.com/p1xlb/fishease-model-api
+
 ## Screenshots
 ### Front Page
 ![Front Page](https://i.imgur.com/H6kpYiK.png)
@@ -13,9 +19,3 @@ Fishease is a fish disease prediction service for aquaculturers and fish farmers
 ![Upload Image](https://i.imgur.com/zq23GB5.jpeg)
 ![Profile & history](https://i.imgur.com/2NkTnLY.png)
 ![Prediction Details](https://i.imgur.com/k6mcLBS.png)
-
-## Related Repositories
-- [backend]   https://github.com/p1xlb/fishease-backend
-- [frontend]  https://github.com/Bintangawan/fishease-frontend
-- [model]     https://github.com/ismailand/inimodelFishease
-- [model api] https://github.com/p1xlb/fishease-model-api
